@@ -1,0 +1,3 @@
+server:
+    contextPath:/springbootapp
+    port: 8080
