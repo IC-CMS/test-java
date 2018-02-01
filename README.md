@@ -3,3 +3,6 @@ test-java repo - This application is from https://spring.io/guides/gs/actuator-s
 
 # Building the app
 Using gradle, ./gradlew clean build && java -jar build/libs/gs-actuator-service-0.1.0.jar
+#
+#
+# Added a comment
