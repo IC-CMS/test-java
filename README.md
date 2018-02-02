@@ -6,3 +6,4 @@ Using gradle, ./gradlew clean build && java -jar build/libs/gs-actuator-service-
 #
 #
 # Added a comment
+This is the comment text
